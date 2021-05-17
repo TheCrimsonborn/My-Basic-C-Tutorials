@@ -1,0 +1,3 @@
+C:/Users/Halil Acar/Google Drive/Programming Stuffs/My-Basic-C-Tutorials/cmake-build-debug/CMakeFiles/My_Basic_C_Tutorial.dir
+C:/Users/Halil Acar/Google Drive/Programming Stuffs/My-Basic-C-Tutorials/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Halil Acar/Google Drive/Programming Stuffs/My-Basic-C-Tutorials/cmake-build-debug/CMakeFiles/rebuild_cache.dir

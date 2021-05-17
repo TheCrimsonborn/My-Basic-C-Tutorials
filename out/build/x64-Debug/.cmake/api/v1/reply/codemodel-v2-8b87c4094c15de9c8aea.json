@@ -1,0 +1,55 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "My_Basic_C_Tutorials",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "My_Basic_C_Tutorial::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-My_Basic_C_Tutorial-Debug-8e8a71f7f8a1db63735a.json",
+					"name" : "My_Basic_C_Tutorial",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Halil Acar/Google Drive/Programming Stuffs/My-Basic-C-Tutorials/out/build/x64-Debug",
+		"source" : "C:/Users/Halil Acar/Google Drive/Programming Stuffs/My-Basic-C-Tutorials"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}

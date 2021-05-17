@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "C:\Users\Halil Acar\Google Drive\Programming Stuffs\My-Basic-C-Tutorials"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Halil Acar/Google Drive/Programming Stuffs/My-Basic-C-Tutorials/cmake-build-debug

@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Halil Acar/Google Drive/Programming Stuffs/My-Basic-C-Tutorials/35-unions.c
+stdio.h
+-
+string.h
+-
+

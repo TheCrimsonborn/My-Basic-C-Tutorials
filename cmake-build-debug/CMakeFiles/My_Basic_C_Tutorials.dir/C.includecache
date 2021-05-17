@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Halil Acar/Google Drive/Programming Stuffs/My-Basic-C-Tutorials/18-loop_demo.c
+stdio.h
+-
+stdlib.h
+-
+limits.h
+-
+float.h
+-
+ctype.h
+-
+
